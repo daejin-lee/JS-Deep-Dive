@@ -1,0 +1,12 @@
+console.log('typeof \'\': ', typeof '');
+console.log('typeof 1: ', typeof 1);
+console.log('typeof NaN: ', typeof NaN);
+console.log('typeof true: ', typeof true);
+console.log('typeof undefined: ', typeof undefined);
+console.log('typeof Symbol(): ', typeof Symbol());
+console.log('typeof null: ', typeof null);
+console.log('typeof []: ', typeof []);
+console.log('typeof {}: ', typeof {});
+console.log('typeof new Date(): ', typeof new Date());
+console.log('typeof /test/gi: ', typeof /test/gi);
+console.log('typeof function() {}: ', typeof function() {});
