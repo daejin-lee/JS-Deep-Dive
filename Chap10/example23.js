@@ -6,3 +6,5 @@ var obj = {
 };
 
 obj.sayHi();
+
+console.log(obj);
